@@ -15,5 +15,5 @@ I build ML systems and full-stack apps — Python, PyTorch, and whatever the pro
 `Python` · `PyTorch` · `ML / NLP` · `Flutter` · `web` · `Java`
 
 ### Contact
-- Email: `mehdiabdelwahab@gmail.com`
+- Email: `mrbrahimkhattara@gmail.com`
 - LinkedIn: [brahim-khattara](https://www.linkedin.com/in/brahim-khattara-2a7a76311/)
